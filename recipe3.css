@@ -1,0 +1,44 @@
+.header{
+    background-color:wheat;
+    border: black 5px solid;
+    margin-bottom:5px;
+}
+.section{
+    background-color:burlywood;
+    border: black 5px dashed;
+    margin-bottom:5px;
+}
+.pictures1{
+    border: peru 10px solid;
+    margin-bottom: 10px;
+}
+.pictures2{
+    border: peru 10px solid;
+    margin-bottom:10px;
+}
+.pictures3{
+    border: peru 10px solid;
+    margin-bottom: 10px;
+}
+.article{
+    background:burlywood;
+    border: black 5px dashed;
+    margin-bottom:5px;
+}
+.footer{
+    background:burlywood;
+    border:black 5px dashed;
+    margin-bottom: 5px;
+}
+body{
+    background-color:sienna;
+    font-family: "Bokor", serif;
+    font-weight: 400;
+    font-style: normal;
+}
+ul{
+    list-style-type: lower-latin;
+}
+ol{
+    list-style-type: upper-latin;
+}
